@@ -1,0 +1,4 @@
+#Thu May 11 14:49:00 WIB 2017
+base.0=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10/mysql-connector-java-5.1.6_7b811f42f0479988cd33ef3700e11f36c7930665
+renamed.0=classes.dex
+file.0=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10/mysql-connector-java-5.1.6_7b811f42f0479988cd33ef3700e11f36c7930665/classes.dex

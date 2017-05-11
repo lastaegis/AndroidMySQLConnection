@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu May 11 11:29:03 WIB 2017
+1.base=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+2.base=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/icon.png
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.file=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/res/resources-debug.ap_/resources.arsc

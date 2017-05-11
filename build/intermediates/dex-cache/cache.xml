@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8451295d9c7b81c2aee0d5a9c1acf3e78e7f406b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="405862409f4c819ffd8800f18dc9d1e888f6bafe">
+        <dex dex="/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_18dc94d581b7d4af96c8896ba54968bccbaffeec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ianno/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.6/380ef5226de2c85ff3b38cbfefeea881c5fce09d/mysql-connector-java-5.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="380ef5226de2c85ff3b38cbfefeea881c5fce09d">
+        <dex dex="/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10/mysql-connector-java-5.1.6_7b811f42f0479988cd33ef3700e11f36c7930665/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu May 11 14:49:00 WIB 2017
+base.0=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8451295d9c7b81c2aee0d5a9c1acf3e78e7f406b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_18dc94d581b7d4af96c8896ba54968bccbaffeec/classes.dex
+base.1=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_18dc94d581b7d4af96c8896ba54968bccbaffeec
+file.0=/home/ianno/AndroidStudioProjects/MateriMySQL/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8451295d9c7b81c2aee0d5a9c1acf3e78e7f406b/classes.dex
